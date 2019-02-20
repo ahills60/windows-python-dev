@@ -1,6 +1,6 @@
 # Microsoft Windows Container with Anaconda Python
 
-FROM microsoft/windowsservercore:1809-amd64 AS base
+FROM mcr.microsoft.com/windows/servercore:1809-amd64
 
 WORKDIR /tmp
 
