@@ -1,4 +1,4 @@
-windows-python-dev
+#windows-python-dev
 
 Python and GCC building for Windows in a Docker container.
 
